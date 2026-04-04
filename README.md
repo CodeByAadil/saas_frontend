@@ -5,7 +5,7 @@ Frontend for TeamFlow SaaS platform built with React/Next.js, featuring a modern
 ```
 /frontend
 ├─ app/
-│ ├─ auth/
+│ ├─ (auth)/
 │ │ ├─ login/page.tsx
 │ │ ├─ register/page.tsx
 │ │ └─ callback/page.tsx ← OAuth
